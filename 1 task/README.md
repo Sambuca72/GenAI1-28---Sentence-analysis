@@ -12,17 +12,13 @@
 > - matplotlib>=3.9.2
 > - numpy>=2.1.1
 
-
 ---
 
-## Установка библиотек
+## Установка
 
-### Linux
-Открой терминал и выполни:
-- python3 -m pip install --upgrade pip
-- pip install nltk matplotlib numpy
+В проекте есть файл `requirements.txt` с зафиксированными версиями библиотек.  
+Установить все зависимости можно одной командой:
 
-## Windows 
-Открой терминал и выполни:
-- py -m pip install --upgrade pip
-- pip install nltk matplotlib numpy
+```bash
+pip install -r requirements.txt
+
