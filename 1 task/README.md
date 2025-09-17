@@ -25,7 +25,7 @@ pip install -r requirements.txt
 ```
 ---
 ## Запуск программы
-## Запуск через Debugger VS Code
+- Запуск через Debugger VS Code
 
 1. **Открой проект в VS Code.**  
    Убедись, что файл `1task.py` открыт в редакторе.
