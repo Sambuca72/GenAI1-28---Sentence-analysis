@@ -27,4 +27,5 @@ pip install nltk matplotlib numpy
 ## Windows 
 Открой терминал и выполни:
 py -m pip install --upgrade pip
+
 pip install nltk matplotlib numpy
