@@ -8,10 +8,11 @@
 ## Требования
 - Python 3.11 и выше
 - Зависимости из requirements.txt
-> - nltk>=3.9.1
-> - matplotlib>=3.9.2
-> - numpy>=2.1.1
-
+```bash
+nltk>=3.9.1
+matplotlib>=3.9.2
+numpy>=2.1.1
+```
 ---
 
 ## Установка
@@ -21,6 +22,7 @@
 
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 ## Запуск программы
+
