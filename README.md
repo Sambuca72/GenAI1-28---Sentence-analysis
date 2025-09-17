@@ -21,8 +21,8 @@
 
 ### Linux
 Открой терминал и выполни:
-python3 -m pip install --upgrade pip
-pip install nltk matplotlib numpy
+- python3 -m pip install --upgrade pip
+- pip install nltk matplotlib numpy
 
 ## Windows 
 Открой терминал и выполни:
