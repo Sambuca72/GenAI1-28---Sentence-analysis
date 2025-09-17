@@ -6,9 +6,9 @@
 
 ---
 ## Требования
-- Python 3.11 и выше
-*Зависимости из requirements.txt*
->nltk==3.9.1
+- Python 3.11 
+- Зависимости из requirements.txt*
+> -nltk==3.9.1
 > - matplotlib==3.9.2
 > - numpy==2.1.1
 
